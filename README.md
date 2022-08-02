@@ -5,7 +5,7 @@
 ## Технологии, которые я использую:
 
 
-### Технологии для Фронтенд разработки
+### Технологии для Фронтенд-разработки
 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
@@ -15,7 +15,7 @@
   <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
 <div>
 
-### Технологии для Бэкенд разработки
+### Технологии для Бэкенд-разработки
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
