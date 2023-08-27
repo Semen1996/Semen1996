@@ -10,7 +10,7 @@
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap" alt="bootstrap logo" width="3%" title='bootstrap'/>
+  <img src ="./images/bootstrap.svg" alt="bootstrap logo" width="3%" title='bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
